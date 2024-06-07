@@ -1,4 +1,7 @@
 <div>
+  <p align="center">⚠️ Check out [tuono](https://github.com/Valerioageno/tuono/tree/main) for a more framework experience ⚠️</p>
+</div>
+<div>
   <h1 align="center">Reactix</h1>
   <p align="center">🦾 React, Typescript and Rust 🦾</p>
 </div>
