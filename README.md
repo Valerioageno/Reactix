@@ -1,5 +1,5 @@
 <div>
-  <p align="center">⚠️ Check out [tuono](https://github.com/Valerioageno/tuono/tree/main) for a more framework experience ⚠️</p>
+  <p align="center">⚠️ Check out <a href="https://github.com/Valerioageno/tuono/tree/main">tuono<a> for a more framework experience ⚠️</p>
 </div>
 <div>
   <h1 align="center">Reactix</h1>
